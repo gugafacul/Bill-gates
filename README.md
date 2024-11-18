@@ -11,3 +11,5 @@ Bill Gates é um empresário, programador e filantropo, cofundador da Microsoft.
 - Gates é um ávido leitor e recomenda publicamente uma lista de livros todos os anos.  
 - Ele foi brevemente a pessoa mais rica do mundo por vários anos consecutivos.  
 - Apesar de sua enorme fortuna, Bill Gates planeja doar a maior parte de sua riqueza para causas filantrópicas.  
+
+- Ele foi revolucionário para que todas as pessoas pudessem ter acesso ao computador. 
